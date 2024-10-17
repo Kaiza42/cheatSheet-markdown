@@ -6,7 +6,7 @@
 
 ###=> h3 
 
-![ceci est une image](https://www.photofunky.net/output/image/e/7/f/e/e7fe2d/photofunky.gif)
+![ceci est une image](https://www.photofunky.net/output/image/b/a/c/f/bacfa7/photofunky.gif)
 
 mettre en gras  ***"text"***
 
