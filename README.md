@@ -22,5 +22,6 @@ mettre en italic *"text"*
 
 ``jpense c'est pur isoler un élément comme du `code` comme ceci ``
 
-ce site c'est plutot une bonne référance si jamais j'ai oublier un truc <https://www.markdownguide.org/basic-syntax/>
+ce site c'est plutot une bonne référance si jamais j'ai oublier un truc 
+<https://www.markdownguide.org/basic-syntax/>
 <fake@example.com>
