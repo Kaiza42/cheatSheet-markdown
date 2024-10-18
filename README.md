@@ -1,4 +1,4 @@
-# j'actualiserais ce dossier pour en faire ma reference de mark down 
+# j'actualiserais ce dossier pour en faire ma reference de markdown 
 
 
 sa c'est pour faire un titre `#`
