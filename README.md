@@ -42,4 +42,4 @@ Sa c'est pour les mail
 
 on peut barrer un text ``~~exemple~~``
 
-- [ ] 
+
