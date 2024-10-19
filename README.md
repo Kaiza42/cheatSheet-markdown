@@ -31,7 +31,7 @@ l'exemple endessous c'est différent façon de fait des
 
 
 je pense c'est pour isoler un élément comme du ``   comme ceci `code` ``  
-tu peut aussi en mettre plusieur ```  code ceci ``Exemple`` au plus tu en met sa met un ordre de priorité ```
+tu peut aussi en mettre plusieur ```  commee ceci ``Exemple`` au plus tu en met sa met un ordre de priorité ```
 
 ce site c'est plutot une bonne référance si jamais j'ai oublier un truc 
 et un exemple pour mettre les lien 
