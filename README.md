@@ -41,3 +41,5 @@ Sa c'est pour les mail
 `<fake@example.com>`
 
 on peut barrer un text ``~~exemple~~``
+
+- [ ] 
