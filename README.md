@@ -20,7 +20,7 @@ mettre en gras `**_"text"_**`
 
 mettre en italic `*"text"* `
 
-l'exemple endessous c'est différent façon de fait des 
+l'exemple endessous c'est différente façon de fait des 
 * point 
 
 `* premiere point`
